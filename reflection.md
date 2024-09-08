@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Connor Cluett
+Sudent Email:  cpcluett@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I freshened up how to use if, elif, else ladder statements, along with while loops. While loops allowed me to continually prompt the number, helping me append the integers to the list. In addition, this assignment helped me understand the push and commit of python files from vscode to github. While I was able to easily understand the coding aspect of the assignment, I struggled with vscode as it was my first time using github and vscode for coding. The instructions helped me understand where to locate and access specific functions in vscode, expecially how to find which lines of the test were errors, and then change the function in python to fit the test statements. Additionally, I was having signing in troubles and a lot of setup errors for my python. My goal in the coming weeks is to better understand vscode and how to properly send my python and update it in the github cloud. Overall this assignment helped me recall some of the python building blocks from past courses (as I have learned different languages in the past semesters). In addition, I learned testing, and how to use vscode to effectively understand errors in my code without having to look at every line. Finally, I have learned new functions in vscode, and how to commit my work to the github class cloud.
